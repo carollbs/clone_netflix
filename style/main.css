@@ -27,13 +27,17 @@ header .logo{
   color: var(--vermelho);
   font-size: 40px;
   font-family: 'Bahnschrift'
+  padding-top: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
 }
 
 
 header nav a{
   text-decoration: none;
   color:#DCDCDC;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 
@@ -73,6 +77,7 @@ header nav a:hover{
   font-size: 40px;
   margin-left: 10px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Sans', Arial, sans-serif;
+  
 }
 
 .botao{
